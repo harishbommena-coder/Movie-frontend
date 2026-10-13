@@ -1,0 +1,15 @@
+{
+  "name": "movie-review-system-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frontend for Movie Review System built with Bootstrap and Vite",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.8"
+  }
+}
